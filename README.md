@@ -68,6 +68,13 @@
 
 ---
 
+### Line of Code
+- About 3,500 Line
+- ![image](https://github.com/Team3-COMP0217001/swing/assets/77498822/a9e5db55-92dc-4668-a090-ffbfdafdfed4)
+
+
+---
+
 ## Contact
 # About Manager Package
 * Lee, Da-Eun
